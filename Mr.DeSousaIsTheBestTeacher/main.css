@@ -1,0 +1,22 @@
+header{
+	background: black;
+	color: white;
+}
+
+header h1{
+	margin: 0;
+}
+
+body {
+	margin: 0;
+	background: lightblue;
+	font-family: arial;
+}
+
+a {
+	color: black;
+}
+
+nav ul li{
+	list-style-type: none;
+}
